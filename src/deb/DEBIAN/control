@@ -1,0 +1,6 @@
+Package: python3-pron
+Version: VERSION
+Architecture: all
+Depends: python3
+Maintainer: Fredrik Atmer <fredrik@atmer.se>
+Description: Tools to read and generate files in python formatting.
